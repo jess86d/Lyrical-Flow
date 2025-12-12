@@ -1,0 +1,5 @@
+{
+  "name": "LyricalFlow - AI Music Video Maker",
+  "description": "Upload a song and photos. Gemini AI transcribes lyrics and syncs them to create a music video instantly.",
+  "requestFramePermissions": []
+}
